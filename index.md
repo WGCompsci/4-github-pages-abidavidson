@@ -1,4 +1,5 @@
+## GitHub Blog by Abi Davidson
 ---
-title: Welcome to my GitHub blog
+title: 🌈Welcome to my blog🌈
 ---
 
